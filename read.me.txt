@@ -1,1 +1,9 @@
 C:\Users\USER\Documents\WindowsPowerShell
+
+The above is the directory for installing this file.
+
+You will need to restart your vscode or command line.
+
+Your command prompt will now include the branch you are on.
+
+USER@JOHNDOE:C:\Users\USER\Desktop\Code\githud (master)> 
